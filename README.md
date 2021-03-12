@@ -1,1 +1,1 @@
-# scripts
+# Scripts for Karpov.Courses
