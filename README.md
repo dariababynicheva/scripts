@@ -1,4 +1,4 @@
-# Scripts for Karpov.Courses
+# Scripts (test&learn)
 
 airflow_dag_vk.ipynb - script; calculate and send metrics report to vk by api, launches every Monday
 
